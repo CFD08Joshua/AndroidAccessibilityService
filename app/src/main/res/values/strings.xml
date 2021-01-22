@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroidAccessibilityService</string>
+    <string name="warn_user_open_float_window">打開「浮動視窗」</string>
+    <string name="open_permission_float_window_">請打開「浮動視窗」權限~</string>
+    <string name="warn_user_open_accessibility">打開「側邊欄位」</string>
+    <string name="permission_accessibility_">請打開「側邊欄位」權限~</string>
+    <string name="accessibility_description">開啟此功能打開側邊欄位</string>
+    <string name="app_not_find">未找到批註應用！</string>
+    <string name="brightness">亮度</string>
+    <string name="back">返回</string>
+    <string name="home">主頁</string>
+    <string name="annotation">批註</string>
+    <string name="volume">音量</string>
+    <string name="backstage">後台</string>
+    <string name="setting_modify_toast">調節系統亮度需要開啟如下權限~</string>
+    <string name="permission_notice">所有權限都已打開</string>
+
+    <!--    Anti - recall-->
+    <string name="accessibility_service_config">開啟之後就能看到撤回消息啦\n別讓它被系統關了哦</string>
+
+    <string name="font_fontFamily_medium">sans-serif</string>
+</resources>

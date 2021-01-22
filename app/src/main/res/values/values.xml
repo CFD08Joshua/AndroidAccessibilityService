@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="green">#8BC34A</color>
+    <declare-styleable name="CircularProgressButton">
+        <attr format="dimension" name="spinning_bar_width"/>
+        <attr format="color" name="spinning_bar_color"/>
+        <attr format="dimension" name="spinning_bar_padding"/>
+        <attr format="dimension" name="initialCornerAngle"/>
+        <attr format="dimension" name="finalCornerAngle"/>
+    </declare-styleable>
+</resources>

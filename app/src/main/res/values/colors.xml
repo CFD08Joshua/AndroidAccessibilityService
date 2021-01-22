@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="bg_button_touch">#ffffff</color>
+    <color name="bg_button_normal">#505050</color>
+    <color name="color_main">#32e8fe</color>
+    <color name="border_bar">#555f7f</color>
+    <color name="bg">#f6f7ff</color>
+
+<!--    Anti-recall-->
+    <color name="colorPrimaryLight">#2176d9</color>
+    <color name="colorCorrect">#60df86</color>
+    <!--<color name="colorCorrect">#40ffa6</color>-->
+    <color name="colorError">#8660df</color>
+    <!--<color name="colorError">#a640ff</color>-->
+
+    <color name="color_button_default">#FFA000</color>
+    <color name="colorWX">#86d987</color>
+    <color name="colorTim">#77befe</color>
+    <color name="colorQQ">#f49790</color>
+
+    <color name="bgBackSideColor">#e6e6e6</color>
+
+    <color name="bgTitleBlue">#6C9FD9</color>
+    <color name="bgNameBlue">#E6F1FF</color>
+    <color name="bgContentBlue">#F5F7FA</color>
+
+    <color name="bgTitleRed">#f29691</color>
+    <color name="bgNameRed">#ffe7e6</color>
+    <color name="bgContentRed">#faf5f5</color>
+
+    <color name="bgTitleGreen">#7cbf7c</color>
+    <color name="bgNameGreen">#e6ffe6</color>
+    <color name="bgContentGreen">#f5faf5</color>
+
+    <color name="text_color_title">#FFFFFF</color>
+    <color name="text_color_title_date">#EEEEEE</color>
+    <color name="text_color_name">#333333</color>
+    <color name="text_color_message">#333333</color>
+    <color name="text_color_time">#888888</color>
+
+    <color name="gray_light">#eeeeee</color>
+    <color name="gray_dark">#aaaaaa</color>
+
+    <color name="divider">#20808080</color>
+</resources>
